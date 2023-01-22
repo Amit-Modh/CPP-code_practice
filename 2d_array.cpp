@@ -10,7 +10,7 @@ void solve(int a[][3])
         for(int j=0;j<3;j++)
         {
             
-            cout<<a[i][j]<<" ";
+            cout<<a[i][j]<<" "; //hello
         
         }
         cout<<endl;	//print statement
