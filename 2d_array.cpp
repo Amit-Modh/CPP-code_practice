@@ -13,7 +13,7 @@ void solve(int a[][3])
             cout<<a[i][j]<<" ";
         
         }
-        cout<<endl;
+        cout<<endl;	//print statement
     }
     
 }
